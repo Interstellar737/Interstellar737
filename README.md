@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá 👋, meu nome é Lucas Gabriel
+Atualmente estou fazendo o curso da Alura sobre programação em linguagem Javascript.
+Estou usando este espaço para organizar e compartilhar meus projetos.
+
+Se desejar, este é meu e-mail : 00001118347067SP@al.educacao.sp.gov.br
 
 <!--
 **Interstellar737/Interstellar737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
